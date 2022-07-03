@@ -1,0 +1,10 @@
+{
+    "owner": "534781539691659264",
+    "df_prefix": ">",
+    "color": {
+        "success": "#b0cc82",
+        "fail": "#f55656",
+        "embed": "#adadd6"
+
+    }
+}

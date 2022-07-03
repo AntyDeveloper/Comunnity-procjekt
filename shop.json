@@ -1,0 +1,30 @@
+{
+    "pages": {
+      "1": {
+        "items": [
+          {
+            "name": "wood",
+            "cost": 100,
+            "dur": "1m",
+            "max": "0"
+
+          },
+          {
+            "name": "adhesive",
+            "cost": 150,
+            "dur": "7d"
+
+          }
+        ]
+      },
+      "2": {
+        "items": [
+          {
+            "name": "steel",
+            "cost": 100
+          }
+        ]
+      }
+    }
+  }
+  
